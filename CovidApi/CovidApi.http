@@ -1,0 +1,6 @@
+@CovidApi_HostAddress = http://localhost:5108
+
+GET {{CovidApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
