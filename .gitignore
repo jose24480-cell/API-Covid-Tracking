@@ -1,0 +1,9 @@
+# Archivos generados por .NET
+**/bin/
+**/obj/
+
+# Dependencias de Angular
+**/node_modules/
+
+# Archivos de Angular
+**/.angular/
