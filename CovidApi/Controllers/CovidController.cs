@@ -30,7 +30,7 @@ namespace CovidApi.Controllers
             {
                 return StatusCode(
                     (int)response.StatusCode,
-                    "No se pudieron obtener los datos."
+                    "Error al consultar la API de COVID."
                 );
             }
 
