@@ -16,6 +16,9 @@ namespace CovidApi.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
+            // Primera modificación realizada por Lozada
+            // Correo: emmanuel24498@cbtis75.edu.mx
+
             // URL de la API de COVID
             var url = "https://api.covidtracking.com/v1/us/daily.json";
 
